@@ -9,7 +9,7 @@
 <img alt="jsDelivr monthly hits badge" src="https://data.jsdelivr.com/v1/package/gh/prateek-chaubey/YTPro/badge">
 
 [![https://telegram.me/l7z_q](https://img.shields.io/badge/Telegram-Channel-orange.svg?style=flat-square)](https://telegram.me/l7z_q)
-[![https://telegram.me/l7z_q](https://img.shields.io/badge/Telegram-@th30neand0nly-blue.svg?style=flat-square)](https://telegram.me/l7z_q)
+[![https://telegram.me/l7z_q](https://img.shields.io/badge/Telegram-@l7z_q-blue.svg?style=flat-square)](https://telegram.me/l7z_q)
 
 </div>
 
