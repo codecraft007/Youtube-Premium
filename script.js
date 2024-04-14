@@ -1,7 +1,6 @@
 /*****YTPRO*******
-Author: Prateek Chaubey
+Author: T A S I N
 Version: 3.3.48
-URI: https://github.com/prateek-chaubey/
 */
 
 
@@ -475,7 +474,7 @@ color:white;
 }
 
 </style>`;
-ytpSetI.innerHTML+=`<b style='font-size:18px' >YT PRO Settings</b>
+ytpSetI.innerHTML+=`<b style='font-size:18px' >PREMIUM Settings</b>
 <span style="font-size:10px">v${YTProVer}</span>
 <br><br>
 <div><input type="url" placeholder="Enter Youtube URL" onkeyup="searchUrl(this,event)"></div>
@@ -490,13 +489,13 @@ ytpSetI.innerHTML+=`<b style='font-size:18px' >YT PRO Settings</b>
 <br>
 <div>Hide Shorts <span onclick="sttCnf(this,'shorts');" style="${sttCnf(0,0,"shorts")}" ><b style="${sttCnf(0,1,"shorts")}" ></b></span></div> 
 <br>
-<div style="display:flex;justify-content:center;font-family:cursive;text-align:center;font-size:2.25rem;font-weight:bolder;color:#0f8;">Made with 
-&#x2665; by Prateek Chaubey</div>
+<div style="display:flex;justify-content:center;font-family:cursive;text-align:center;font-size:2.25rem;font-weight:bolder;color:#0f8;">Made 
+&#x2665; by TASIN</div>
 <br><br>
-<div style="font-size:1.25rem;"><b style="font-weight:bold">Disclaimer</b>: This is an unofficial OSS Youtube Mod , all the logos and brand names are property of Google LLC.<br>
-You can get the source code at <a href="#" onclick="Android.oplink('https://github.com/prateek-chaubey/YTPRO')" > https://github.com/prateek-chaubey/YTPRO</a>
+<div style="font-size:1.25rem;"><b style="font-weight:bold">Feature</b>: Discover a YouTube-like experience with all premium options available, completely ad-free.<br>
+ Author:<a href="#" onclick="Android.oplink('https://t.me/l7z_q')" >T A S I N</a>
 <br><br><center>
-<a href="#" onclick="Android.oplink('https://github.com/prateek-chaubey/YTPRO/issues')" >Report Bugs</a>
+<a href="#" onclick="Android.oplink('https://t.me/l7z_q')" >T A S I N</a>
 </center></div>`;
 
 document.body.appendChild(ytpSet);
