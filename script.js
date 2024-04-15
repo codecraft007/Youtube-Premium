@@ -490,7 +490,7 @@ ytpSetI.innerHTML+=`<b style='font-size:18px' >PREMIUM Settings</b>
 <div>Hide Shorts <span onclick="sttCnf(this,'shorts');" style="${sttCnf(0,0,"shorts")}" ><b style="${sttCnf(0,1,"shorts")}" ></b></span></div> 
 <br>
 <div style="display:flex;justify-content:center;font-family:cursive;text-align:center;font-size:2.25rem;font-weight:bolder;color:#0f8;">Made 
-&#x2665; by TASIN</div>
+&#x2665; by SOHAIL</div>
 <br><br>
 <div style="font-size:1.25rem;"><b style="font-weight:bold">Feature</b>: Discover a YouTube-like experience with all premium options available, completely ad-free.<br>
  Author:<a href="#" onclick="Android.oplink('https://t.me/l7z_q')" >T A S I N</a>
